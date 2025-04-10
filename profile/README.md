@@ -1,5 +1,4 @@
-<img width="100%" style="margin-left: auto; margin-right: auto;" alt="MainBanner" src="https://github.com/ArisCorporation/ArisCorporation/assets/72545889/ba7eb286-9a51-41b9-b2da-a73a9dde126b">
-
+<img width="100%" style="margin-left: auto; margin-right: auto;" alt="MainBanner" src="https://drive.cyberca.de/apps/files_sharing/publicpreview/dqQdaobdyzQpS5w?file=/&fileId=903&x=3440&y=1440&a=true&etag=67edd4331962e">
 
 
 
